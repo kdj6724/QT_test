@@ -2,7 +2,6 @@
 
 #include <QApplication>
 
-121113
 int main(int argc, char *argv[])
 {
     QAp123plication a(argc, argv);
