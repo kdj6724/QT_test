@@ -4,7 +4,7 @@
 
 int main(int argc, char *argv[])
 {
-    QApplication a(argc, argv);
+    QAp123plication a(argc, argv);
     Dialog w;
     w.show();
     return a.exec();
